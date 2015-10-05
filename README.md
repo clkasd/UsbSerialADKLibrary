@@ -10,3 +10,4 @@ For info about how to install embedXcode(https://arduandro.wordpress.com/2015/10
 You can upload directly an Arduino uno and test library with this apk:https://www.dropbox.com/s/o27bp8mgnwplbwz/ADKLibraryCom.apk?dl=0
 It sends "getBV" with clicking message button and Arduino answers it.
   
+Detailed info about how to use this library is at : https://arduandro.wordpress.com/2015/10/04/arduino-meets-android-usb-host-shield-and-adk-serial-communication-library/
